@@ -121,7 +121,17 @@ Use the **"Run 30 Repetitions"** button to test stability and performance variab
 * All seeds are logged in `seeds_used.txt` for future reference.
 
 ---
+## 👥 Team Members
 
+| No. | ID       | Name                     |
+| --- | -------- | ------------------------ |
+| 1   | 20210453 | شريف اشرف عوض الباجوري   |
+| 2   | 20210441 | سيف حسام الدين محمد      |
+| 3   | 20210503 | عبد الرحمن خالد محمد     |
+| 4   | 20210581 | علي محمد علي ابراهيم     |
+| 5   | 20210410 | سلمى انور انور عبدالعزيز |
+
+---
 ## 🙋‍♂️ Acknowledgements
 
 * Inspired by advances in **dimensionality reduction**, **topological learning**, and **deep learning visualization**.
