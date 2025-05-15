@@ -1,7 +1,3 @@
-Great! Here's a polished and professional `README.md` you can use for your GitHub repository:
-
----
-
 # 📉 Dimensionality Reduction for Data Visualization Using Nature-Inspired Algorithms
 
 This project provides an interactive GUI-based system to **visualize high-dimensional data** using a variety of **traditional and nature-inspired dimensionality reduction algorithms**. It supports reproducibility testing, algorithm comparisons, and metric-based evaluation.
